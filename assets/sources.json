@@ -1,0 +1,109 @@
+{
+  "attribution": "Doki Doki Literature Club! / Team Salvato; DDLC Plus! / Dan Salvato LLC & Serenity Forge LLC. Official website assets.",
+  "assets": {
+    "sayori.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c725ac774a8/61166a7cfab35c78c1c7758c_Sayori-hc-724.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 724,
+      "height": 1500,
+      "mode": "RGBA",
+      "bytes": 553872
+    },
+    "natsuki.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c725ac774a8/61166a7cfab35c5164c7756b_Natsuki-hc-724.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 724,
+      "height": 1500,
+      "mode": "RGBA",
+      "bytes": 426711
+    },
+    "yuri.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c725ac774a8/61166a7cfab35c91e4c7758b_Yuri-hc-724.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 724,
+      "height": 1500,
+      "mode": "RGBA",
+      "bytes": 578835
+    },
+    "monika.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c725ac774a8/61166a7cfab35c7ce5c77589_Monika-hc-724.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 724,
+      "height": 1500,
+      "mode": "RGBA",
+      "bytes": 626159
+    },
+    "logo.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c1054c77494/61166a7cfab35cd6d7c774ca_DDLC-Plus-Logo_Circle.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 800,
+      "height": 800,
+      "mode": "RGBA",
+      "bytes": 426608
+    },
+    "hero-cast.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c1054c77494/61166a7cfab35c1bb7c77505_Full-cast-cast.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 1500,
+      "height": 992,
+      "mode": "RGBA",
+      "bytes": 875779
+    },
+    "wallpaper.png": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c1054c77494/61166a7cfab35c68cac77520_Plus_2_HD_Wallpaper.png",
+      "source_page": "https://ddlc.plus/",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGB",
+      "bytes": 185173
+    },
+    "club-background.jpg": {
+      "url": "https://cdn.prod.website-files.com/61166a7cfab35c1054c77494/61166a7cfab35c767ac774e4_WindowScreen_BG.jpg",
+      "source_page": "https://ddlc.plus/",
+      "width": 1920,
+      "height": 1080,
+      "mode": "RGB",
+      "bytes": 243793
+    },
+    "gallery-1.png": {
+      "url": "https://ddlc.moe/images/screen1.png",
+      "source_page": "https://ddlc.moe/",
+      "width": 1280,
+      "height": 720,
+      "mode": "RGB",
+      "bytes": 1231096
+    },
+    "gallery-2.png": {
+      "url": "https://ddlc.moe/images/screen2.png",
+      "source_page": "https://ddlc.moe/",
+      "width": 1280,
+      "height": 720,
+      "mode": "RGBA",
+      "bytes": 694946
+    },
+    "gallery-3.png": {
+      "url": "https://ddlc.moe/images/screen3.png",
+      "source_page": "https://ddlc.moe/",
+      "width": 1280,
+      "height": 720,
+      "mode": "RGB",
+      "bytes": 744965
+    },
+    "gallery-4.png": {
+      "url": "https://ddlc.moe/images/screen4.png",
+      "source_page": "https://ddlc.moe/",
+      "width": 1280,
+      "height": 720,
+      "mode": "RGB",
+      "bytes": 1087802
+    },
+    "keyart-original.png": {
+      "url": "https://ddlc.moe/images/promo.png",
+      "source_page": "https://ddlc.moe/",
+      "width": 710,
+      "height": 742,
+      "mode": "RGBA",
+      "bytes": 705149
+    }
+  }
+}
